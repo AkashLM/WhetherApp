@@ -106,7 +106,7 @@ const InformationContainer = () => {
             <div className="Section-3-Div-1">Monday</div>
             <div className="Section-3-Div-1">{Data.current.last_updated}</div>
             <div className="Section-3-Div-1">{Data.location.tz_id}</div>
-          </div>
+          </div>  
         </div>
       </div>
     </div>
